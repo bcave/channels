@@ -1,0 +1,5644 @@
+[
+  {
+    "_id": "596738ca1568f8e516393117",
+    "_sortOrder": 0,
+    "_parentId": "596738c91568f8e516393104",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "displayTitle": "From little things, big things grow",
+    "_refId": "58ebdb2c192f4e895e96add3",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-5",
+    "title": "Set your digital marketing goals",
+    "_type": "article",
+    "_courseOrder": "0-0"
+  },
+  {
+    "_id": "596738c91568f8e516393105",
+    "_sortOrder": 1,
+    "_parentId": "596738c91568f8e516393104",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "58ebdb2a192f4e895e96ad9d",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Marketing and marketing channels",
+    "_type": "article",
+    "_courseOrder": "0-1"
+  },
+  {
+    "_id": "596738cb1568f8e51639312e",
+    "_sortOrder": 2,
+    "_parentId": "596738c91568f8e516393104",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "591dc49e02778c512a0aec1d",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Recap: Types of marketing",
+    "_type": "article",
+    "_courseOrder": "0-2"
+  },
+  {
+    "_id": "596738cb1568f8e51639312b",
+    "_sortOrder": 3,
+    "_parentId": "596738c91568f8e516393104",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "591dc47502778c512a0aec19",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-7",
+    "_displayTitleSettings": {
+      "_textAlign": "left",
+      "_fontSize": ""
+    },
+    "title": "Digital marketing in practice",
+    "_type": "article",
+    "_courseOrder": "0-3"
+  },
+  {
+    "_id": "596738c91568f8e51639310d",
+    "_sortOrder": 4,
+    "_parentId": "596738c91568f8e516393104",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "58ebdb2b192f4e895e96adb4",
+    "body": "<div><br></div>",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "58b6b5df6faa37e74495147c"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Set your marketing goals",
+    "_type": "article",
+    "_courseOrder": "0-4"
+  },
+  {
+    "_id": "596738cb1568f8e516393128",
+    "_sortOrder": 5,
+    "_parentId": "596738c91568f8e516393104",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "591dc46202778c512a0aec17",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-7",
+    "title": "Recap: Four steps to setting marketing goals",
+    "_type": "article",
+    "_courseOrder": "0-5"
+  },
+  {
+    "_id": "596738ca1568f8e51639311d",
+    "_sortOrder": 6,
+    "_parentId": "596738c91568f8e516393104",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "58ff903af06989ac6bf1a6e4",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200,
+            "src": {
+              "_id": "58c13e0413b751d90c4ed408",
+              "_extension": "png",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "What is a funnel and how does it work? ",
+    "_type": "article",
+    "_courseOrder": "0-6"
+  },
+  {
+    "_id": "596738ca1568f8e516393121",
+    "_sortOrder": 7,
+    "_parentId": "596738c91568f8e516393104",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "591dc43902778c512a0aec13",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Worked example of a funnel",
+    "_type": "article",
+    "_courseOrder": "0-7"
+  },
+  {
+    "_id": "596738cb1568f8e516393125",
+    "_sortOrder": 8,
+    "_parentId": "596738c91568f8e516393104",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "591dc44202778c512a0aec15",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200,
+            "src": {
+              "_id": "592ffa5a02778c512a0afbc4",
+              "_extension": "png",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Visual funnel example",
+    "_type": "article",
+    "_courseOrder": "0-8"
+  },
+  {
+    "_id": "596738cb1568f8e516393132",
+    "_sortOrder": 9,
+    "_parentId": "596738c91568f8e516393104",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "593920eb08a265827f217b48",
+    "displayTitle": "Ready to funnel your marketing goals?",
+    "_progress": {
+      "_isEnabled": false
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "cover",
+      "src": {
+        "_id": "593fc52adf8b36a341acc6c7",
+        "_extension": "jpeg",
+        "_type": "image"
+      }
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-8",
+    "title": "Ready to funnel your marketing goals?",
+    "_type": "article",
+    "_courseOrder": "0-9"
+  },
+  {
+    "_id": "596738c91568f8e516393109",
+    "_sortOrder": 10,
+    "_parentId": "596738c91568f8e516393104",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "",
+    "_refId": "58ebdb2b192f4e895e96adaf",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "_displayTitleSettings": {
+      "_fontSize": "",
+      "_textAlign": "left"
+    },
+    "title": "Types of marketing",
+    "_type": "article",
+    "_courseOrder": "0-10"
+  },
+  {
+    "_id": "596738c91568f8e516393110",
+    "_sortOrder": 11,
+    "_parentId": "596738c91568f8e516393104",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "58ebdb2c192f4e895e96adc9",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Setting goals",
+    "_type": "article",
+    "_courseOrder": "0-11"
+  },
+  {
+    "_id": "596738ca1568f8e516393113",
+    "_sortOrder": 12,
+    "_parentId": "596738c91568f8e516393104",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "58ebdb2c192f4e895e96adce",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Approaches to marketing",
+    "_type": "article",
+    "_courseOrder": "0-12"
+  },
+  {
+    "_id": "596738ca1568f8e51639311a",
+    "_sortOrder": 13,
+    "_parentId": "596738c91568f8e516393104",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "body": "",
+    "_refId": "58ebdb2c192f4e895e96add9",
+    "displayTitle": "Set your digital marketing goals.  Let's wrap it up",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-4",
+    "title": "Set your digital marketing goals.  Let's wrap it up",
+    "_type": "article",
+    "_courseOrder": "0-13"
+  },
+  {
+    "_id": "596738d01568f8e516393191",
+    "_sortOrder": 0,
+    "_parentId": "596738d01568f8e516393184",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "58ebdb34192f4e895e96aef5",
+    "displayTitle": "Heads, you win. Tails, you still win!",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-5",
+    "title": "Be first on Google search results",
+    "_type": "article",
+    "_courseOrder": "1-0"
+  },
+  {
+    "_id": "596738d01568f8e516393185",
+    "_sortOrder": 1,
+    "_parentId": "596738d01568f8e516393184",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "58ebdb32192f4e895e96aecf",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-7",
+    "title": "What is SEO?",
+    "_type": "article",
+    "_courseOrder": "1-1"
+  },
+  {
+    "_id": "596738d21568f8e5163931b2",
+    "_sortOrder": 2,
+    "_parentId": "596738d01568f8e516393184",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "5925143f02778c512a0af68d",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Which customers does SEO reach? ",
+    "_type": "article",
+    "_courseOrder": "1-2"
+  },
+  {
+    "_id": "596738d11568f8e5163931a0",
+    "_sortOrder": 3,
+    "_parentId": "596738d01568f8e516393184",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "591e8f2902778c512a0aec23",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "How does SEO work?",
+    "_type": "article",
+    "_courseOrder": "1-3"
+  },
+  {
+    "_id": "596738d11568f8e5163931a3",
+    "_sortOrder": 4,
+    "_parentId": "596738d01568f8e516393184",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "591e8f3c02778c512a0aec25",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "What is the head and long tail in SEO?",
+    "_type": "article",
+    "_courseOrder": "1-4"
+  },
+  {
+    "_id": "596738d11568f8e51639319a",
+    "_sortOrder": 5,
+    "_parentId": "596738d01568f8e516393184",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "590216b3f06989ac6bf1a960",
+    "displayTitle": "",
+    "body": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "What is good SEO?",
+    "_type": "article",
+    "_courseOrder": "1-5"
+  },
+  {
+    "_id": "596738d21568f8e5163931a7",
+    "_sortOrder": 6,
+    "_parentId": "596738d01568f8e516393184",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "591e8f8002778c512a0aec2b",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Three SEO streams",
+    "_type": "article",
+    "_courseOrder": "1-6"
+  },
+  {
+    "_id": "596738d11568f8e51639319d",
+    "_sortOrder": 7,
+    "_parentId": "596738d01568f8e516393184",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "590a057f6d17df123a61089b",
+    "displayTitle": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Deep dive: Keyword research ",
+    "_type": "article",
+    "_courseOrder": "1-7"
+  },
+  {
+    "_id": "596738d21568f8e5163931aa",
+    "_sortOrder": 8,
+    "_parentId": "596738d01568f8e516393184",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "591e8fe102778c512a0aec2d",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Deep dive: Building back links",
+    "_type": "article",
+    "_courseOrder": "1-8"
+  },
+  {
+    "_id": "596738d21568f8e5163931ae",
+    "_sortOrder": 9,
+    "_parentId": "596738d01568f8e516393184",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "591e8ff602778c512a0aec2f",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200,
+            "src": {
+              "_id": "58b6b5df6faa37e74495147c",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Link building no-nos",
+    "_type": "article",
+    "_courseOrder": "1-9"
+  },
+  {
+    "_id": "596738d21568f8e5163931b5",
+    "_sortOrder": 10,
+    "_parentId": "596738d01568f8e516393184",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "593920eb08a265827f217b48",
+    "displayTitle": "Ready to move up the rankings?",
+    "_progress": {
+      "_isEnabled": false
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "cover",
+      "src": {
+        "_id": "593fc52adf8b36a341acc6c7",
+        "_extension": "jpeg",
+        "_type": "image"
+      }
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-8",
+    "title": "Ready to move up the rankings?",
+    "_type": "article",
+    "_courseOrder": "1-10"
+  },
+  {
+    "_id": "596738d01568f8e516393189",
+    "_sortOrder": 11,
+    "_parentId": "596738d01568f8e516393184",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "58ebdb33192f4e895e96aeeb",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Working SEO",
+    "_type": "article",
+    "_courseOrder": "1-11"
+  },
+  {
+    "_id": "596738d01568f8e51639318d",
+    "_sortOrder": 12,
+    "_parentId": "596738d01568f8e516393184",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "58ebdb33192f4e895e96aef0",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Tail searches",
+    "_type": "article",
+    "_courseOrder": "1-12"
+  },
+  {
+    "_id": "596738d11568f8e516393197",
+    "_sortOrder": 13,
+    "_parentId": "596738d01568f8e516393184",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "58ebdb35192f4e895e96af0b",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Keyword research",
+    "_type": "article",
+    "_courseOrder": "1-13"
+  },
+  {
+    "_id": "596738d11568f8e516393194",
+    "_sortOrder": 14,
+    "_parentId": "596738d01568f8e516393184",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "58ebdb34192f4e895e96aef8",
+    "displayTitle": "Be first on Google search results. Let's wrap it up",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-4",
+    "title": "Be first on Google search results. Let's wrap it up",
+    "_type": "article",
+    "_courseOrder": "1-14"
+  },
+  {
+    "_id": "596738ce1568f8e51639316d",
+    "_sortOrder": 0,
+    "_parentId": "596738ce1568f8e51639315d",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "displayTitle": "The stuff people want and need!",
+    "body": "",
+    "_refId": "58ebdb31192f4e895e96aebd",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-5",
+    "title": "The stuff people want and need!",
+    "_type": "article",
+    "_courseOrder": "2-0"
+  },
+  {
+    "_id": "596738cf1568f8e51639317a",
+    "_sortOrder": 1,
+    "_parentId": "596738ce1568f8e51639315d",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "592518c902778c512a0af691",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "What is content marketing?",
+    "_type": "article",
+    "_courseOrder": "2-1"
+  },
+  {
+    "_id": "596738cf1568f8e51639317e",
+    "_sortOrder": 2,
+    "_parentId": "596738ce1568f8e51639315d",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "5925195302778c512a0af695",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Get the most out of blogging",
+    "_type": "article",
+    "_courseOrder": "2-2"
+  },
+  {
+    "_id": "596738ce1568f8e516393166",
+    "_sortOrder": 3,
+    "_parentId": "596738ce1568f8e51639315d",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p></p><div><br></div><p></p>",
+    "_refId": "58ebdb31192f4e895e96aead",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-9",
+    "title": "Use your blog to attract SEO",
+    "_type": "article",
+    "_courseOrder": "2-3"
+  },
+  {
+    "_id": "596738ce1568f8e51639315e",
+    "_courseId": "596738c81568f8e516393101",
+    "_parentId": "596738ce1568f8e51639315d",
+    "_sortOrder": 4,
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "58ebdb31192f4e895e96ae96",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200,
+            "src": {
+              "_id": "58ad7fa450d3bf600d233ae7",
+              "_extension": "png",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "_displayTitleSettings": {
+      "_fontSize": "",
+      "_textAlign": "left"
+    },
+    "title": "What is video marketing? ",
+    "_type": "article",
+    "_courseOrder": "2-4"
+  },
+  {
+    "_id": "596738cf1568f8e516393177",
+    "_sortOrder": 5,
+    "_parentId": "596738ce1568f8e51639315d",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "591eb45c02778c512a0aec37",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "58b6b5df6faa37e74495147c"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-7",
+    "title": "Where can you share your content?",
+    "_type": "article",
+    "_courseOrder": "2-5"
+  },
+  {
+    "_id": "596738d01568f8e516393182",
+    "_sortOrder": 6,
+    "_parentId": "596738ce1568f8e51639315d",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "593920eb08a265827f217b48",
+    "displayTitle": "Ready to share the happiness?",
+    "_progress": {
+      "_isEnabled": false
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "cover",
+      "src": {
+        "_id": "593fc52adf8b36a341acc6c7",
+        "_extension": "jpeg",
+        "_type": "image"
+      }
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-8",
+    "title": "Ready to share the happiness?",
+    "_type": "article",
+    "_courseOrder": "2-6"
+  },
+  {
+    "_id": "596738ce1568f8e516393162",
+    "_sortOrder": 7,
+    "_parentId": "596738ce1568f8e51639315d",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "58ebdb31192f4e895e96aea3",
+    "displayTitle": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "_displayTitleSettings": {
+      "_fontSize": "",
+      "_textAlign": "left"
+    },
+    "title": "What is content marketing?",
+    "_type": "article",
+    "_courseOrder": "2-7"
+  },
+  {
+    "_id": "596738cf1568f8e516393170",
+    "_sortOrder": 8,
+    "_parentId": "596738ce1568f8e51639315d",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "58ebdb31192f4e895e96aec0",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "_displayTitleSettings": {
+      "_fontSize": "",
+      "_textAlign": "left"
+    },
+    "title": "Sharing content",
+    "_type": "article",
+    "_courseOrder": "2-8"
+  },
+  {
+    "_id": "596738cf1568f8e516393173",
+    "_sortOrder": 9,
+    "_parentId": "596738ce1568f8e51639315d",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "58ffe304f06989ac6bf1a710",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Q3: Engaging content",
+    "_type": "article",
+    "_courseOrder": "2-9"
+  },
+  {
+    "_id": "596738ce1568f8e51639316a",
+    "_sortOrder": 10,
+    "_parentId": "596738ce1568f8e51639315d",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "58ebdb31192f4e895e96aeb2",
+    "displayTitle": "Choose what content to make. Let's wrap it up",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-4",
+    "title": "Choose what content to make. Let's wrap it up",
+    "_type": "article",
+    "_courseOrder": "2-10"
+  },
+  {
+    "_id": "596738d31568f8e5163931bc",
+    "_sortOrder": 0,
+    "_parentId": "596738d21568f8e5163931b7",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "59031df9ca47c0a2423314e4",
+    "displayTitle": "Help your customers with your insights and advice",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-5",
+    "title": "Newsletters as a marketing tool",
+    "_type": "article",
+    "_courseOrder": "3-0"
+  },
+  {
+    "_id": "596738d41568f8e5163931db",
+    "_sortOrder": 1,
+    "_parentId": "596738d21568f8e5163931b7",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "59251c2b02778c512a0af69c",
+    "displayTitle": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Permission-based marketing",
+    "_type": "article",
+    "_courseOrder": "3-1"
+  },
+  {
+    "_id": "596738d21568f8e5163931b8",
+    "_courseId": "596738c81568f8e516393101",
+    "_parentId": "596738d21568f8e5163931b7",
+    "_sortOrder": 2,
+    "__v": 0,
+    "_refId": "59030b03ca47c0a2423314df",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "How newsletters can help",
+    "_type": "article",
+    "_courseOrder": "3-2"
+  },
+  {
+    "_id": "596738d41568f8e5163931d1",
+    "_sortOrder": 3,
+    "_parentId": "596738d21568f8e5163931b7",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "591ed32002778c512a0aec3b",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-7",
+    "title": "What separates a great newsletter from boring spam? ",
+    "_type": "article",
+    "_courseOrder": "3-3"
+  },
+  {
+    "_id": "596738d41568f8e5163931d8",
+    "_sortOrder": 4,
+    "_parentId": "596738d21568f8e5163931b7",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "591ed35102778c512a0aec3f",
+    "displayTitle": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-9",
+    "title": "What type of newsletter should I use? ",
+    "_type": "article",
+    "_courseOrder": "3-4"
+  },
+  {
+    "_id": "596738d41568f8e5163931cd",
+    "_sortOrder": 5,
+    "_parentId": "596738d21568f8e5163931b7",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "590adc915a15f66111b8fcd3",
+    "displayTitle": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Measure the success of your newsletter campaign",
+    "_type": "article",
+    "_courseOrder": "3-5"
+  },
+  {
+    "_id": "596738d41568f8e5163931d4",
+    "_sortOrder": 6,
+    "_parentId": "596738d21568f8e5163931b7",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "591ed33302778c512a0aec3d",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200,
+            "src": {
+              "_id": "58b6b5df6faa37e74495147c",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Newsletter FAQ",
+    "_type": "article",
+    "_courseOrder": "3-6"
+  },
+  {
+    "_id": "596738d51568f8e5163931df",
+    "_sortOrder": 7,
+    "_parentId": "596738d21568f8e5163931b7",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "593920eb08a265827f217b48",
+    "displayTitle": "Ready to publish?",
+    "_progress": {
+      "_isEnabled": false
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "cover",
+      "src": {
+        "_id": "593fc52adf8b36a341acc6c7",
+        "_extension": "jpeg",
+        "_type": "image"
+      }
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-8",
+    "title": "Ready to publish?",
+    "_type": "article",
+    "_courseOrder": "3-7"
+  },
+  {
+    "_id": "596738d31568f8e5163931bf",
+    "_sortOrder": 8,
+    "_parentId": "596738d21568f8e5163931b7",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "59034466ca47c0a242331513",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "_displayTitleSettings": {
+      "_fontSize": "",
+      "_textAlign": "left"
+    },
+    "title": "Newsletter content",
+    "_type": "article",
+    "_courseOrder": "3-8"
+  },
+  {
+    "_id": "596738d31568f8e5163931c3",
+    "_sortOrder": 9,
+    "_parentId": "596738d21568f8e5163931b7",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "5903447aca47c0a242331515",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Types of newsletter",
+    "_type": "article",
+    "_courseOrder": "3-9"
+  },
+  {
+    "_id": "596738d31568f8e5163931c7",
+    "_sortOrder": 10,
+    "_parentId": "596738d21568f8e5163931b7",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "5903448aca47c0a242331517",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Measuring analytics",
+    "_type": "article",
+    "_courseOrder": "3-10"
+  },
+  {
+    "_id": "596738d31568f8e5163931ca",
+    "_sortOrder": 11,
+    "_parentId": "596738d21568f8e5163931b7",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "58ebdb34192f4e895e96aef8",
+    "displayTitle": "Newsletters as a marketing tool. Let's wrap it up",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-4",
+    "title": "Newsletters as a marketing tool. Let's wrap it up",
+    "_type": "article",
+    "_courseOrder": "3-11"
+  },
+  {
+    "_id": "596738cc1568f8e516393140",
+    "_sortOrder": 0,
+    "_parentId": "596738cb1568f8e516393134",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "displayTitle": "Get what you pay for!",
+    "_refId": "58ebdb2e192f4e895e96ae0e",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-5",
+    "title": "Mastering paid advertising",
+    "_type": "article",
+    "_courseOrder": "4-0"
+  },
+  {
+    "_id": "596738cd1568f8e516393151",
+    "_sortOrder": 1,
+    "_parentId": "596738cb1568f8e516393134",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "5908eefdf9d949721d5327a1",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "How much do digital ads cost?",
+    "_type": "article",
+    "_courseOrder": "4-1"
+  },
+  {
+    "_id": "596738cd1568f8e516393154",
+    "_sortOrder": 2,
+    "_parentId": "596738cb1568f8e516393134",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "591ede1e02778c512a0aec43",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Marketing costs explained",
+    "_type": "article",
+    "_courseOrder": "4-2"
+  },
+  {
+    "_id": "596738cc1568f8e516393135",
+    "_courseId": "596738c81568f8e516393101",
+    "_parentId": "596738cb1568f8e516393134",
+    "_sortOrder": 3,
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "58ebdb2c192f4e895e96ade4",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200,
+            "src": {
+              "_id": "58ad7fa450d3bf600d233ae7",
+              "_extension": "png",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "How much are you paying for each customer?",
+    "_type": "article",
+    "_courseOrder": "4-3"
+  },
+  {
+    "_id": "596738cc1568f8e516393139",
+    "_sortOrder": 4,
+    "_parentId": "596738cb1568f8e516393134",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "body": "",
+    "_refId": "58ebdb2c192f4e895e96ade9",
+    "displayTitle": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200,
+            "src": {
+              "_size": "large",
+              "_type": "image",
+              "_extension": "jpeg",
+              "_id": "58b6b5df6faa37e74495147c"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Advertising on Facebook and Google",
+    "_type": "article",
+    "_courseOrder": "4-4"
+  },
+  {
+    "_id": "596738cd1568f8e516393158",
+    "_sortOrder": 5,
+    "_parentId": "596738cb1568f8e516393134",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "591ede9302778c512a0aec47",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-9",
+    "title": "Recap: Advertising on Google and Facebook",
+    "_type": "article",
+    "_courseOrder": "4-5"
+  },
+  {
+    "_id": "596738cd1568f8e51639314e",
+    "_sortOrder": 6,
+    "_parentId": "596738cb1568f8e516393134",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "590111ccf06989ac6bf1a7ae",
+    "displayTitle": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200,
+            "src": {
+              "_id": "58b6b5df6faa37e74495147c",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Re-targeting: What is it and how does it work? ",
+    "_type": "article",
+    "_courseOrder": "4-6"
+  },
+  {
+    "_id": "596738ce1568f8e51639315b",
+    "_sortOrder": 7,
+    "_parentId": "596738cb1568f8e516393134",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "593920eb08a265827f217b48",
+    "displayTitle": "Ready to get value for money?",
+    "_progress": {
+      "_isEnabled": false
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "cover",
+      "src": {
+        "_id": "593fc52adf8b36a341acc6c7",
+        "_extension": "jpeg",
+        "_type": "image"
+      }
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-8",
+    "title": "Ready to get value for money?",
+    "_type": "article",
+    "_courseOrder": "4-7"
+  },
+  {
+    "_id": "596738cc1568f8e51639313d",
+    "_sortOrder": 8,
+    "_parentId": "596738cb1568f8e516393134",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "displayTitle": "",
+    "_refId": "58ebdb2e192f4e895e96ae09",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "_displayTitleSettings": {
+      "_fontSize": "",
+      "_textAlign": "left"
+    },
+    "title": "Digital ad costs",
+    "_type": "article",
+    "_courseOrder": "4-8"
+  },
+  {
+    "_id": "596738cd1568f8e51639314a",
+    "_sortOrder": 9,
+    "_parentId": "596738cb1568f8e516393134",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "58ebdb2e192f4e895e96ae21",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Profitability",
+    "_type": "article",
+    "_courseOrder": "4-9"
+  },
+  {
+    "_id": "596738cc1568f8e516393146",
+    "_sortOrder": 10,
+    "_parentId": "596738cb1568f8e516393134",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "58ebdb2e192f4e895e96ae1c",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-3",
+    "title": "Re-targeting",
+    "_type": "article",
+    "_courseOrder": "4-10"
+  },
+  {
+    "_id": "596738cc1568f8e516393143",
+    "_sortOrder": 11,
+    "_parentId": "596738cb1568f8e516393134",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "58ebdb2e192f4e895e96ae11",
+    "displayTitle": "Mastering paid advertising. Let's wrap it up",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-4",
+    "title": "Mastering paid advertising. Let's wrap it up",
+    "_type": "article",
+    "_courseOrder": "4-11"
+  },
+  {
+    "_id": "596738d61568f8e5163931f5",
+    "_sortOrder": 0,
+    "_parentId": "596738d51568f8e5163931e1",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "590af3995a15f66111b8fce9",
+    "body": "",
+    "displayTitle": "A great product sells itself!",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-5",
+    "title": "Intro block",
+    "_type": "article",
+    "_courseOrder": "5-0"
+  },
+  {
+    "_id": "596738d51568f8e5163931e2",
+    "_courseId": "596738c81568f8e516393101",
+    "_parentId": "596738d51568f8e5163931e1",
+    "_sortOrder": 1,
+    "__v": 0,
+    "_refId": "59078350c9d1f16774191571",
+    "displayTitle": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "What is great marketing all about?",
+    "_type": "article",
+    "_courseOrder": "5-1"
+  },
+  {
+    "_id": "596738d61568f8e516393203",
+    "_sortOrder": 2,
+    "_parentId": "596738d51568f8e5163931e1",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "592521d802778c512a0af6a0",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Great products sell themselves",
+    "_type": "article",
+    "_courseOrder": "5-2"
+  },
+  {
+    "_id": "596738d51568f8e5163931e6",
+    "_sortOrder": 3,
+    "_parentId": "596738d51568f8e5163931e1",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "5908f66ef9d949721d5327bb",
+    "displayTitle": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Creating referrals and evangelists",
+    "_type": "article",
+    "_courseOrder": "5-3"
+  },
+  {
+    "_id": "596738d71568f8e516393206",
+    "_sortOrder": 4,
+    "_parentId": "596738d51568f8e5163931e1",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "592521e702778c512a0af6a2",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Nurture your community of evangelists ",
+    "_type": "article",
+    "_courseOrder": "5-4"
+  },
+  {
+    "_id": "596738d51568f8e5163931ea",
+    "_sortOrder": 5,
+    "_parentId": "596738d51568f8e5163931e1",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "5908f73cf9d949721d5327c1",
+    "displayTitle": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "The truth about viral marketing",
+    "_type": "article",
+    "_courseOrder": "5-5"
+  },
+  {
+    "_id": "596738d61568f8e5163931ff",
+    "_sortOrder": 6,
+    "_parentId": "596738d51568f8e5163931e1",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "591efc5b02778c512a0aec59",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200,
+            "src": {
+              "_id": "58b6b5df6faa37e74495147c",
+              "_extension": "jpeg",
+              "_type": "image",
+              "_size": "large"
+            }
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Digital marketing: Where to begin",
+    "_type": "article",
+    "_courseOrder": "5-6"
+  },
+  {
+    "_id": "596738d71568f8e51639320a",
+    "_sortOrder": 7,
+    "_parentId": "596738d51568f8e5163931e1",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "593920eb08a265827f217b48",
+    "displayTitle": "Ready to grow your market?",
+    "_progress": {
+      "_isEnabled": false
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "cover",
+      "src": {
+        "_id": "593fc52adf8b36a341acc6c7",
+        "_extension": "jpeg",
+        "_type": "image"
+      }
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-8",
+    "title": "Ready to grow your market?",
+    "_type": "article",
+    "_courseOrder": "5-7"
+  },
+  {
+    "_id": "596738d51568f8e5163931ee",
+    "_sortOrder": 8,
+    "_parentId": "596738d51568f8e5163931e1",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "5908f9e9f9d949721d5327cd",
+    "body": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Getting referrals",
+    "_type": "article",
+    "_courseOrder": "5-8"
+  },
+  {
+    "_id": "596738d51568f8e5163931f1",
+    "_sortOrder": 9,
+    "_parentId": "596738d51568f8e5163931e1",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "5908f9f2f9d949721d5327cf",
+    "body": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Viral content",
+    "_type": "article",
+    "_courseOrder": "5-9"
+  },
+  {
+    "_id": "596738d61568f8e5163931f8",
+    "_sortOrder": 10,
+    "_parentId": "596738d51568f8e5163931e1",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "590af92d5a15f66111b8fcf0",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Where to start",
+    "_type": "article",
+    "_courseOrder": "5-10"
+  },
+  {
+    "_id": "596738d61568f8e5163931fc",
+    "_sortOrder": 11,
+    "_parentId": "596738d51568f8e5163931e1",
+    "_courseId": "596738c81568f8e516393101",
+    "__v": 0,
+    "_refId": "58ebdb2e192f4e895e96ae11",
+    "displayTitle": "Get your customers to do your marketing for you. Let's wrap it up",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-4",
+    "title": "Get your customers to do your marketing for you. Let's wrap it up",
+    "_type": "article",
+    "_courseOrder": "5-11"
+  }
+]

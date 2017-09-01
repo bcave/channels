@@ -1,0 +1,848 @@
+[
+  {
+    "_id": "596738c91568f8e516393104",
+    "_courseId": "596738c81568f8e516393101",
+    "_parentId": "596738c81568f8e516393101",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "Set your digital marketing goals",
+    "duration": "15 minutes",
+    "_refId": "58ebdb28192f4e895e96ad82",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_hoverGraphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "58b02e8d6faa37e744951399"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View",
+      "src": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b0435a6faa37e7449513e9"
+      }
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "src": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58b040a16faa37e7449513e2"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_fixed": false,
+      "_position": "top",
+      "_size": "contain"
+    },
+    "_heroImage": {
+      "title": "Set your digital marketing goals",
+      "_graphic": {
+        "_large": {
+          "src": {
+            "_id": "59006c27f06989ac6bf1a765",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "title": "Set your digital marketing goals",
+    "_type": "page",
+    "_courseOrder": "0"
+  },
+  {
+    "_id": "596738d01568f8e516393184",
+    "_courseId": "596738c81568f8e516393101",
+    "_parentId": "596738c81568f8e516393101",
+    "_sortOrder": 1,
+    "__v": 0,
+    "displayTitle": "Be first on Google search results ",
+    "duration": "15 minutes",
+    "_refId": "58ebdb31192f4e895e96aec8",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "58b02e8d6faa37e744951399"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View",
+      "src": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b0435a6faa37e7449513e9"
+      }
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "src": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b949476faa37e7449516ab"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_fixed": false,
+      "_position": "top",
+      "_size": "contain"
+    },
+    "_heroImage": {
+      "title": "Be first on Google search results",
+      "_graphic": {
+        "_small": {
+          "src": {
+            "_id": "58b949636faa37e7449516ac",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_large": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "59006c27f06989ac6bf1a765"
+          }
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "title": "Be first on Google search results",
+    "_type": "page",
+    "_courseOrder": "1"
+  },
+  {
+    "_id": "596738ce1568f8e51639315d",
+    "_courseId": "596738c81568f8e516393101",
+    "_parentId": "596738c81568f8e516393101",
+    "_sortOrder": 2,
+    "__v": 0,
+    "displayTitle": "Choose what content to make",
+    "duration": "15 minutes",
+    "_refId": "58ebdb30192f4e895e96ae8f",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_hoverGraphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "png",
+          "_id": "58b948ff6faa37e7449516a8"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View",
+      "src": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b0435a6faa37e7449513e9"
+      }
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "src": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b948ff6faa37e7449516a8"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_fixed": false,
+      "_position": "top",
+      "_size": "contain"
+    },
+    "_heroImage": {
+      "title": "Choose what content to make",
+      "_graphic": {
+        "_small": {
+          "src": {
+            "_id": "58b949746faa37e7449516ad",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_large": {
+          "src": {
+            "_id": "59006c27f06989ac6bf1a765",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "title": "Choose what content to make",
+    "_type": "page",
+    "_courseOrder": "2"
+  },
+  {
+    "_id": "596738d21568f8e5163931b7",
+    "_courseId": "596738c81568f8e516393101",
+    "_parentId": "596738c81568f8e516393101",
+    "_sortOrder": 3,
+    "__v": 0,
+    "_refId": "59030b03ca47c0a2423314de",
+    "displayTitle": "Newsletters as a marketing tool",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "title": "Newsletters as a marketing tool",
+      "_graphic": {
+        "_large": {
+          "src": {
+            "_id": "59006c27f06989ac6bf1a765",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "title": "Newsletters as a marketing tool",
+    "_type": "page",
+    "_courseOrder": "3"
+  },
+  {
+    "_id": "596738cb1568f8e516393134",
+    "_courseId": "596738c81568f8e516393101",
+    "_parentId": "596738c81568f8e516393101",
+    "_sortOrder": 4,
+    "__v": 0,
+    "displayTitle": "Mastering paid advertising  ",
+    "duration": "15 minutes",
+    "_refId": "58ebdb2c192f4e895e96adde",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "58b02e8d6faa37e744951399"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View",
+      "src": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b0435a6faa37e7449513e9"
+      }
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "src": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b86bcc6faa37e7449516a3"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_fixed": false,
+      "_position": "top",
+      "_size": "contain"
+    },
+    "_heroImage": {
+      "title": "Mastering paid advertising",
+      "_graphic": {
+        "_large": {
+          "src": {
+            "_id": "59006c27f06989ac6bf1a765",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "title": "Mastering paid advertising",
+    "_type": "page",
+    "_courseOrder": "4"
+  },
+  {
+    "_id": "596738d51568f8e5163931e1",
+    "_courseId": "596738c81568f8e516393101",
+    "_parentId": "596738c81568f8e516393101",
+    "_sortOrder": 5,
+    "__v": 0,
+    "_refId": "59078350c9d1f16774191570",
+    "displayTitle": "Get your customers to do your marketing for you",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "title": "Get your customers to do your marketing for you",
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "title": "Get your customers to do your marketing for you",
+    "_type": "page",
+    "_courseOrder": "5"
+  }
+]
